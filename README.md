@@ -5,4 +5,11 @@ This repository contains code allowing to reproduce the results of the analysis 
 - python code to process the .csv files
 - R code to analyse the data and visualise results (analysis.R)
 ## Basic usage
+The script:
 ```bash run_all.sh```
+will run the data pre-processing, data analysis performed in R and generate figures used in the manuscript.
+
+## Detailed usage
+Run: 
+```analysis.R``` 
+in RStudio to investigate all the steps of the analysis.

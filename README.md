@@ -14,3 +14,42 @@ will run the data pre-processing, data analysis performed in R and generate figu
 Run: 
 ```analysis.R``` 
 in RStudio to investigate all the steps of the analysis.
+
+## Content:
+ Figures:
+ Differentially abundant species (DA) - DeSeq2
+ Plotting the top DA species 
+ Plotting the most abundant species in DS and in WT mice
+ Venn diagrams of species present in WT and DS
+ Multidimensional Scaling Analysis (MDS) 
+ Hierarchical Clustering (HCL)
+ Correlation of species within WT and DS mice
+ Validation with total RNA HiSeq data - presence of species - Venn diagram
+ Correlation of species abundances in 16S and total RNA HiSeq data
+
+ Numbers of species detected in WT_T0, WT_T4, DS_T0, DS_T4 - TO CHYBA SKASOWAC ???
+## Supplementary Data and Figures:
+ Numbers of reads per sample in 16S data
+ Numbers of reads per sample in total RNA data 
+ Rarefaction curves in 16S data 
+ Rarefaction curves in total RNA data 
+ Validation with total RNA HiSeq data - presence of species - Venn diagram for each condition
+ Correlation of species within WT and DS mice - validation in total RNA data
+
+# Comparison with metadata and/or with the human data:
+
+ Correlate species abundances changes with body weight gains (between T0 and T4) (mice only)
+ Correlate species abundances with body weights (mice only)
+ in progress: Correlate species abundances with behavioral data (mice)
+ Correlate changes in species abundances with behavioral data changes (between T0 and T4) (mice)
+
+
+ Compare numbers of detected species in mice and human data (Biagi et al. 2014) (Venn diagram)
+ Compare numbers of species (mice and humans) per genotype
+ Correlate mouse with mouse abundances data and human with human, and compare them
+ Correlate mice taxonomic abundances data with human taxonomic abundances data 
+ Clustering of the human data alone
+ Clustering of the human and mice data
+ MDS on human metadata
+ Correlate human microbiome data with metadata
+ Build a model for predicting obesity or mental disability

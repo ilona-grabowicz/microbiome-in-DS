@@ -16,7 +16,7 @@ Run:
 in RStudio to investigate all the steps of the analysis.
 
 ### Content:
- Figures:
+# Figures:
  * Differentially abundant species (DA) - DeSeq2
  * Plotting the top DA species 
  * Plotting the most abundant species in DS and in WT mice

@@ -15,7 +15,7 @@ Run:
 ```analysis.R``` 
 in RStudio to investigate all the steps of the analysis.
 
-## Content:
+### Content:
  Figures:
  Differentially abundant species (DA) - DeSeq2
  Plotting the top DA species 
@@ -28,7 +28,7 @@ in RStudio to investigate all the steps of the analysis.
  Correlation of species abundances in 16S and total RNA HiSeq data
 
  Numbers of species detected in WT_T0, WT_T4, DS_T0, DS_T4 - TO CHYBA SKASOWAC ???
-## Supplementary Data and Figures:
+### Supplementary Data and Figures:
  Numbers of reads per sample in 16S data
  Numbers of reads per sample in total RNA data 
  Rarefaction curves in 16S data 
@@ -36,7 +36,7 @@ in RStudio to investigate all the steps of the analysis.
  Validation with total RNA HiSeq data - presence of species - Venn diagram for each condition
  Correlation of species within WT and DS mice - validation in total RNA data
 
-# Comparison with metadata and/or with the human data:
+### Comparison with metadata and/or with the human data:
 
  Correlate species abundances changes with body weight gains (between T0 and T4) (mice only)
  Correlate species abundances with body weights (mice only)

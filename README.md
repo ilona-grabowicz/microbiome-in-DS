@@ -1,5 +1,7 @@
 # microbiome-in-DS
-This repository contains the compressed files with code and input files allowing to reproduce the results of the analysis of the microbiome data. Those data were obtained to determine the microbial content of the faecal microbiome samples from Wild Type and Down Syndrome model mice fed high-fat diet.
+
+This repository contains the code allowing to reproduce the results of the analysis of the microbiome data, pre-published in the article: doi: https://doi.org/10.1101/2020.11.16.385989 Those data were obtained to determine the microbial content of the faecal microbiome samples from Wild Type and Down Syndrome model mice fed high-fat diet.
+
 ## What is in the package?
 - script to run seed-kraken
 - python code to process the .csv files
